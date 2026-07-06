@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Virtual Workspace</string>
+    <string name="provider_description">Workspace virtual de ficheiros</string>
+    <string name="notification_channel_operations">Operações em background</string>
+    <string name="notification_channel_alerts">Alertas</string>
+</resources>
