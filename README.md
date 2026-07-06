@@ -78,3 +78,6 @@ Os schemas Room são exportados para `app/schemas/` e devem ser versionados para
 - Sem `INTERNET`, sem `MANAGE_EXTERNAL_STORAGE`, sem `QUERY_ALL_PACKAGES`
 - `POST_NOTIFICATIONS` para progresso de operações em background
 - Acesso a pastas do utilizador exclusivamente via SAF (permissões persistentes geridas na app)
+# Virtual-Workspace
+The File Management System is a native Android mobile application that functions as an Intelligent Virtual Workspace.
+
